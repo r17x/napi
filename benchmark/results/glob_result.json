@@ -1,0 +1,27 @@
+{
+  "name": "Glob",
+  "date": "2022-03-02T04:01:26.094Z",
+  "version": "0.0.0",
+  "results": [
+    {
+      "name": "NAPI glob",
+      "ops": 25,
+      "margin": 0.68,
+      "percentSlower": 0
+    },
+    {
+      "name": "JS glob",
+      "ops": 21,
+      "margin": 2.4,
+      "percentSlower": 16
+    }
+  ],
+  "fastest": {
+    "name": "NAPI glob",
+    "index": 0
+  },
+  "slowest": {
+    "name": "JS glob",
+    "index": 1
+  }
+}
