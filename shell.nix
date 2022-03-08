@@ -14,5 +14,6 @@ mkShell {
     })
     rust-analyzer
     rustup
+    nodejs-14_x
   ];
 }
